@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-### I'm Secil Seleci
+### I'm Seçil Seleci
 I'm a **Software Developer** with a passion for building web applications, learning new technologies, and solving challenging problems.
 
 - 🔭 **I’m currently working on:** `QuizHub - ASP.NET Core MVC Project`
-- 🌱 **I’m currently learning:** Microservices, Docker, Kubernetes, and CI/CD pipelines.
+🌱 I’m currently learning: ASP.NET Core API Development and Hosting Applications on Cloud Platforms like Render and Azure.
 - 📫 **How to reach me:** [secil.seleci@gmail.com](mailto:secil.seleci@gmail.com)
 
 ---
@@ -24,9 +24,3 @@ I'm a **Software Developer** with a passion for building web applications, learn
 - 💻 See all my projects: [My GitHub Projects](https://github.com/secilseleci)
 
 ---
-
-### 📈 **Github Stats:**
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secilseleci&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
