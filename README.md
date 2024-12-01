@@ -5,7 +5,7 @@ I'm a **Software Developer** with a passion for building web applications, learn
 
 - 🔭 **I’m currently working on:** `QuizHub - ASP.NET Core MVC Project`
 - 🌱 **I’m currently learning:** Microservices, Docker, Kubernetes, and CI/CD pipelines.
-- 📫 **How to reach me:** [secilseleci@gmail.com](mailto:secilseleci@gmail.com)
+- 📫 **How to reach me:** [secil.seleci@gmail.com](mailto:secil.seleci@gmail.com)
 
 ---
 
