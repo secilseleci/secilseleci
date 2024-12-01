@@ -4,7 +4,7 @@
 I'm a **Software Developer** with a passion for building web applications, learning new technologies, and solving challenging problems.
 
 - 🔭 **I’m currently working on:** `QuizHub - ASP.NET Core MVC Project`
-🌱 I’m currently learning: ASP.NET Core API Development and Hosting Applications on Cloud Platforms like Render and Azure.
+-🌱 I’m currently learning: ASP.NET Core API Development and Hosting Applications on Cloud Platforms like Render and Azure.
 - 📫 **How to reach me:** [secil.seleci@gmail.com](mailto:secil.seleci@gmail.com)
 
 ---
@@ -21,6 +21,7 @@ I'm a **Software Developer** with a passion for building web applications, learn
 
 ### 📚 **My Portfolio & Projects:**
 - 🌐 Check out my portfolio: [Secil Seleci Portfolio](https://secilseleci.my.canva.site/)
-- 💻 See all my projects: [My GitHub Projects](https://github.com/secilseleci)
+- 💻 See all my projects: [See all my projects](https://github.com/secilseleci?tab=repositories)
+
 
 ---
